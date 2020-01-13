@@ -6,7 +6,7 @@
 
 # Comparision between CNN and RCNN
  <p align="center">
-  <img src="image/comparision.PNG", width="900">
+  <img src="image/comparison.PNG", width="500">
 </p>
 
 # Model architecture
