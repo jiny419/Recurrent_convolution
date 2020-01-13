@@ -6,11 +6,11 @@
 
 # Comparision between CNN and RCNN
  <p align="center">
-  <img src="image/comparison.png", width="900">
+  <img src="image/comparision.PNG", width="900">
 </p>
 
 # Model architecture
 
  <p align="center">
-  <img src="image/RCNN_architecture.png", width="900">
+  <img src="image/RCNN_architecture.PNG", width="900">
 </p>
